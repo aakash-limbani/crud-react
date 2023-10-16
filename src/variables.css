@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #1890ff;
+  --border-primary-color: #69c0ff;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --gray-color: gray;
+  --chinese-silver-color: #cccccc;
+  --text-color: #7c8db5;
+  --white-shade-color: #f2f2f2;
+  --white-shade-color-2: #e7e7e7;
+  --white-shade-color-3: #f5f5f5;
+  --yellow-color: #f8ba56;
+  --hover-light-blue-shade-color: #d6eaf8;
+  --light-gray-color: lightgray;
+  --gray-shade-color: #dbdbdb;
+  --pos-bg-color: #f0f2f5;
+  --notify-bg-color: #fffbe6;
+  --notify-border-color: #ffe58f;
+  --custom-select-hover-color: #d6eaf8;
+  --label-color: #595959;
+}

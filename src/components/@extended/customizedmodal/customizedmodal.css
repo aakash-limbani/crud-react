@@ -1,0 +1,13 @@
+.modal-header-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+.modal-heading-name {
+  font-size: medium;
+  font-weight: 600;
+  display: flex;
+  color: var(--black-color);
+}

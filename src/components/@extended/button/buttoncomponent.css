@@ -1,0 +1,63 @@
+.btn-update{
+    padding: 5px 15px;
+    font-size: 14px;
+    gap: 5px;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+.btn-update1{
+    padding: 5px;
+    font-size: 10px;
+    min-width: auto;
+    display: flex;
+    justify-content: center;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+.btn-update-2{
+    padding: 6px 3px;
+    font-size: 10px;
+    min-width:auto;
+    display: flex;
+    justify-content: center;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+.new-payment-button{
+    padding: 5px 40px;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+.complete-order-button {
+  padding: 4px 47px;
+}
+.pay-now-btn{
+    min-width: none;
+    width: 85px;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+.icon-box-main {
+  font-size: 20px;
+}
+.background-white {
+  background: var(--white-color);
+    color: var(--black-color);
+    border: 1px solid var(--light-gray-color);
+  padding: 2px 10px;
+  font-size: 14px;
+}
+.background-white:hover {
+  background:  var(--white-color);
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+}
+.pos-icon {
+  font-size: 10px !important;
+}
+.payment-add-btn{
+    width: 100%;
+    margin-top: 5%;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
